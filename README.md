@@ -19,7 +19,7 @@ Exemplo:
     # ::1				localhost
     111.111.1.2			fluig.minhadns.com.br
 
-### Documentos técnica disponibilizada pela Totvs sobre o problema
+### Documentos técnicos disponibilizados pela Totvs referente ao problema
 
 Configuração do Fluig Viewer: [https://tdn.totvs.com/pages/releaseview.action?pageId=235327464](https://tdn.totvs.com/pages/releaseview.action?pageId=235327464)
 
